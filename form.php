@@ -31,11 +31,25 @@
           <input type="submit" value="submit Data" name="btn">
 
 
+          <br>
+
+
 
       </form>
 
 
+      <form action="file" method="POST" enctype="multipart/form-data"  >
 
+          <br><input type="file" name="upload_img">
+
+          <br>
+
+          <br><input type="submit" name="submit_img" value="submit_img">
+
+
+
+
+      </form>
 
 
 
