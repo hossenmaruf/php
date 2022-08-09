@@ -38,7 +38,7 @@
       </form>
 
 
-      <form action="file" method="POST" enctype="multipart/form-data"  >
+      <form action="img.php" method="POST" enctype="multipart/form-data">
 
           <br><input type="file" name="upload_img">
 
